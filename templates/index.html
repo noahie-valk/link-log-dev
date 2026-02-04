@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<body class="blog-index">
+
+<h1>{{ config.title | safe }}</h1>
+
+<p>This is my link log. Every Sunday, I'll post interesting links I find.</p>
+
+{% set year_2026 = get_section(path="2026/_index.md") %}
+<h3><a href="{{ year_2026.permalink | safe }}">{{ year_2026.title }}</a></h3>
+
+<p>Make RSS cool again (<a href="https://noahie.xyz/what-is-rss">What is this?</a>): the link to my feed is <a href="{{ get_url(path=config.feed_filenames[0]) | safe }}">here</a>.</p>
+
+<div>
+  <a href="https://noahie.xyz/">Back to Noahie's Terminal</a>
+</div>
+
+</body>
+{% endblock content %}
+

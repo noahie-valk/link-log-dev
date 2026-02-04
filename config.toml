@@ -1,0 +1,28 @@
+title = "Noahie's Link Log"
+# The URL the site will be built for
+base_url = "https://noahie.xyz/link-log"
+default_language = "en"
+output_dir = "../site/link-log"
+author = "Noahie Valk"
+
+# RSS feeds
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+
+# Taxonomies
+taxonomies = [
+    {name = "tags", feed = true},
+    {name = "categories", feed = true},
+]
+
+# Enable search index
+build_search_index = true
+
+[markdown]
+# Enable syntax highlighting
+highlight_code = true
+highlight_theme = "monokai"
+
+[extra]
+author_email = "noahie@fastmail.com"
+description = "A weekly collection of Noahie's internet finds."

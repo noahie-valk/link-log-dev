@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ config.title | safe }}{% endblock title %}
+
+{% block content %}
+
+<body class="blog-post">
+<nav class="post-nav">
+
+    <div>
+    <a href="{{ get_url(path='/') }}">&larr; Back to Main Page</a>
+    </div>
+
+  {% if page.ancestors and page.ancestors | length > 0 %}
+    {% set parent_path = page.ancestors | last %}
+    {% set section = get_section(path=parent_path) %}
+    <div>
+      <a href="{{ section.permalink }}">&larr; Back to {{ section.title }}</a>
+    </div>
+  {% endif %}
+
+</nav>
+
+<h1 class="title">
+  {{ page.title }}
+</h1>
+<p class="subtitle"><strong>{{ page.date | date(format="%Y-%m-%d") }}</strong></p>
+
+{{ page.content | safe }}
+
+{% if page.lower or page.higher %}
+  <nav class="post-nav">
+    <div>
+      {% if page.lower %}
+        <a class="previous" href="{{ page.lower.permalink | safe }}">‹ {{ page.lower.title }}</a>
+      {% endif %}
+    </div>
+    <div>
+      {% if page.higher %}
+        <a class="next" href="{{ page.higher.permalink | safe }}">{{ page.higher.title }} ›</a>
+      {% endif %}
+    </div>
+  </nav>  
+{% endif %}
+
+</body>
+
+{% endblock content %}

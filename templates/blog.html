@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} | {{ config.title | safe }}{% endblock title %}
+
+{% block content %}
+<body class="blog-index">
+
+<h1 class="title">
+  {{ section.title }}
+</h1>
+{% if section.content %}
+  <div class="section-intro">
+    {{ section.content | safe }}
+  </div>
+{% endif %}
+
+{% if section.subsections %}
+  <h2>Years</h2>
+  <ul>
+    {% for subsection_path in section.subsections %}
+      {% set subsection = get_section(path=subsection_path) %}
+      <li>
+        <a href="{{ subsection.permalink | safe }}">{{ subsection.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  {# This is a year archive, list posts in reverse chronological order #}
+  {% set pages = paginator.pages | default(value=section.pages) %}
+  <ul>
+    {% for post in pages %}
+    <li>
+      <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
+      <span style="color: #888; font-size: 0.9em;">{{ post.date | date(format="%Y-%m-%d") }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+
+{% if paginator and paginator.number_pagers > 1 %}
+  <nav class="pagination" style="margin-top:1.5em; justify-content:space-between;">
+    <div>
+      {% if paginator.previous %}
+        <a href="{{ paginator.previous }}">&larr; Previous Page</a>
+      {% endif %}
+      {% if paginator.next %}
+        <a href="{{ paginator.next }}">Next Page &rarr;</a>
+      {% endif %}
+    </div>
+    <div>
+      Page {{ paginator.current_index }} of {{ paginator.number_pagers }}
+    </div>
+  </nav>
+
+</body>
+{% endif %}
+{% endblock content %}
