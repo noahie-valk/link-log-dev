@@ -24,3 +24,7 @@ A site to help you figure things out when [you feel like shit](https://philome.l
 [Cara](https://cara.app) is a site for artists to share their portfolio. Basically, art Instagram but not bad. 
 
 [Ocean of PDF](https://oceanofpdf.com/) is a site that lets you download books for free, seriously. This is where I get most of my books these days.  
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
