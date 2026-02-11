@@ -6,7 +6,7 @@ set -e
 
 # Commit changes
 git add .
-git commit -m "${1:-Blog post: $(date +%Y-%m-%d)}"
+git commit -m "${1:-Link Log post: $(date +%Y-%m-%d)}"
 
 # Push to GitHub
 git push
