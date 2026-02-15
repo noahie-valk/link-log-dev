@@ -18,3 +18,7 @@ Need some [filters for your ad blocker](https://filterlists.com/)?
 [Catbox](https://catbox.moe) is a cute file uploader. If you use Discord and want to share a longer video but don't have Nitro, you can upload it here, get a link, and then it'll automatically embed when you send it in Discord. Thanks Catbox, very cool!
 
 [Quad9](https://quad9.net) is a nonprofit DNS resolver run out of Switzerland. It's extremely easy to set up and makes you instantly more private on the internet. 
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
