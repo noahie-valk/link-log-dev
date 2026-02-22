@@ -17,3 +17,5 @@ cd ~/site
 neocities push .
 
 echo "✅ Deployed successfully!"
+
+notify-send "Deploy finished!"
