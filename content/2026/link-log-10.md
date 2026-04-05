@@ -25,3 +25,6 @@ So with that, I will flat out say that Woody isn't writing those novels—his mo
 
 [schrodingers.cat](https://schrodingers.cat/): philosophy for beginners, for free. 
 
+[Reply by email](mailto:noahie@fastmail.com)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
