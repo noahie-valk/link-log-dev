@@ -15,7 +15,6 @@ git push
 zola build
 cd ~/site
 neocities push .
-surge
 
 echo "✅ Deployed successfully!"
 
