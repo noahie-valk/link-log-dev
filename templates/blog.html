@@ -31,7 +31,7 @@
     {% for post in pages %}
     <li>
       <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
-      <span style="color: #888; font-size: 0.9em;">{{ post.date | date(format="%Y-%m-%d") }}</span>
+      <span class="date-label" style="color: #888; font-size: 0.9em;">{{ post.date | date(format="%Y-%m-%d") }}</span>
     </li>
     {% endfor %}
   </ul>
