@@ -3,6 +3,11 @@ title = "Link Log 15"
 date = 2026-05-10
 +++
 
+<video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto">
+  <source src="/images/tenor-males.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Oh yeah baby, Animal Collective is back and her new name is [Chanel Beads](https://www.youtube.com/watch?v=DDWzfu-m9Kc). I caught their [NTS set](https://soundcloud.com/user-202286394-991268468/chanel-beads-270426) and thought it was bonkers awesome, but was a bit disappointed to find their main work is more electronic than the jazz/modern classical vibe from their NTS set. Still, Shane Lavers is cooking with some sauce, and I'm here for it. I tried figuring out who plays the piano on that NTS set because it's so fucking good, and the closest I have is from articles about Shane where he mentions that he's not a classically trained musician in any way, so I'm going to safely assume that it's the cute girl playing the piano. Can someone track her down and send her my email? Please? It might also be the guy on violin but I'm not sure. Or it could be just some random sub they got for the gig, I don't know. Whoever it was, send them my email. Also the cute girl, thanks. 
 
 Ever wonder what them Victorian people with the first microscopes were looking at? [Well wonder no more](https://www.thisiscolossal.com/2026/05/the-hudson-transparencies-exhibition-illustration-science-history/). Microscopes are cool, and looking at really small stuff and seeing the intricacies of these unseen structures really makes you think about the *tapestry* of it all. Also, can we bring the word tapestry back? I know the LLMs went kinda crazy with that word, but that's totally fair for them to do that, come on. Moving through this tangent a bit more: I'm not sure what the new taste trends for prose are with LLMs. I remember like ten years ago, it was super in vogue to be laconic and minimalist with punctuation like Hemingway or McCarthy but now we've totally pivoted back to punctuation maximalism and dense clauses. What, you haven't written a sentence with like five clauses recently? 
