@@ -3,6 +3,11 @@ title = "Link Log 16"
 date = 2026-05-17
 +++
 
+<video controls playsinline style="max-width:80%;border-radius:8px;margin-left:auto;margin-right:auto">
+  <source src="/images/pls-rember.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 *Light on links this week. Sorry!*
 
 Some guy had a [collection of bones bigger than most museums](https://www.nybooks.com/articles/2026/05/28/indianas-indiana-jones-the-grave-robber-carpenter/). He worked as an electrical engineer for the Manhattan Project, then decided to LARP as Indiana Jones and start robbing grave sites. You know the "anthropological" difference between humans and animals? Humans are the only species on the planet that bury their dead. Well, at least that's what I remember reading in my AP World History textbook my sophomore year of high school. Before converting to Orthodox Christianity, I used to want to get cremated after I died; many in my family have the same sentiment. But now that I understand that my salvation is on the line, I'm hoping for a good Christian burial after my repose. 
