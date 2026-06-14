@@ -3,7 +3,7 @@ title = "Link Log 20"
 date = 2026-06-14
 +++
 
-![Whitman Spanish](https://p.kagi.com/proxy/whitman-spanish.png?c=FqcZJ3SBYlzM0XNhKYNI8gU4PL7h-Gg_3TwhsPcQI6QDQ2wuueiL0Aun-kPSKahy6WbQkZKdOC8ejAirW9gJLA%3D%3D)
+![Whitman Spanish](https://noahie.xyz/images/whitman-spanish.png)
 
 *The image is a Spanish translation a friend did of a Walt Whitman poem.*
 
