@@ -1,0 +1,28 @@
++++
+title = "Link Log 25"
+date = 2026-07-19
++++
+
+![interlude](https://noahie.xyz/images/interlude.png)
+
+Here's a soundbite of a [girl having explosive diarrhea](https://www.myinstants.com/en/instant/girl-having-explosive-diarrhea-82681/). After hearing about that [parasite](https://www.rochesterregional.org/hub/cyclosporiasis-parasite-outbreak-diarrhea) going around or whatever, I thought to myself, "What does explosive diarrhea sound like?" And so now we're here. You're welcome.
+
+Essay from Aeon on [the science behind getting ghosted by your mom](https://aeon.co/essays/when-my-ties-to-my-mother-faded-so-did-my-memories). That's not *really* what the article's about; it's more about how estrangement causes lapses in memory. Although, if you're willing to get an essay published about how much of a bitch your mom is in a widely read and syndicated philosophy publication, that probably tells us all we need to know about why she doesn't talk to you anymore.
+
+[doom.haus](https://doom.haus) is a digital mandala. Nice.
+
+A brief and comprehensive analysis of [Ukraine's efforts to fight against Russia](https://www.austinvernon.site/blog/ukrainewar.html). I haven't kept up with the developments of the war because it's a sad thing, but this analysis raised some pertinent questions for me. Even with the overwhelming support of the US and Europe, Ukraine still has to bank on Russia eventually deciding to cut its losses, and I don't think that will be the case for quite some time. Sure, the Ukrainians have won key victories and have been holding their own against the Russian onslaught, but how much longer can they keep this up? At this point, even if they have developed competent military leadership, the entire war effort relies on the resources and sophistication of their allies. Given how much Russia refuses to lose, particularly due to the horrendous levels of propaganda fed to its people, it doesn't seem like it would be in the interest of Ukraine's allies to sustain their support indefinitely. Sure, the US military-industrial complex has been making immense profits from the war, but the US government's expenditures can't keep up with this pace much longer, especially considering everything else on its plate. I worry that if the war doesn't end with Ukraine officially joining NATO and the EU by the end of this year, the Russians will keep pouring everything they can into it for the next several years, no matter how much they lose. By that point, Ukraine may be fully annexed by Russia, and the whole thing will have been a complete waste of Western diplomatic resources.
+
+Story from p4k on [corporate raves](https://pitchfork.com/story/the-rise-of-the-corporate-rave/). Gatekeeping the concept of a rave is stupid; quite frankly, I think people who do so only want to keep their marginalized communities, well, marginalized. It's weird because there's a certain kind of pride that some oppressed people have in being or having been oppressed. While it's important to acknowledge those ramifications historically and moving forward, I find that the first step is to understand that the objective should be to *not be marginalized anymore*. Consider the main organizer of one of these corporate raves: "Are you just drinking your profits away? Are you getting high? We’re sober. We’re serious professionals. You take it seriously, you can make more money." Those old-school raves, while enriching and capturing a certain zeitgeist for some, are ultimately excuses to be promiscuous and debaucherous. While I don't necessarily support the notion that rave culture should be something that's profiteered, I *do* support the notion that it has the power to help people in one way or another. If that's done through large corporate cash grabs, then so be it; what *isn't* a cash grab these days anyway?
+
+Video of Jonathan Pageau and Rachel Wilson discussing [the occult roots of feminism](https://www.youtube.com/watch?v=DKliIG90YDw). This is probably one of the more contentious links I've shared. I wasn't aware of the extent of the ideological roots of feminism, and hearing Rachel discuss the writings of those suffragettes and their objectives was edifying. Personally, I see much of that not entirely as a standalone satanic movement (though clearly many of its roots are there), but as a reaction to the sins found in patriarchy that men struggle with. I think the idea Rachel espoused—that women had plenty of freedoms in the 19th century—is blatantly false. It's common for people to paint false representations of the past as something more complicated, particularly because the people of those eras are gone, and all we can do is build ideas from the remnants they left behind. For instance, a common device people used back in the 19th century was a scold's bridle (which I mentioned [here](https://noahie.xyz/link-log/2026/link-log-15)). So while it's important to hold feminists accountable for their satanism, I think it's also important to understand that what we are all striving for is a reformed patriarchy; while it'll be tough to find in our current industrialized and post-modernist era, I know that the Lord will lead us in the right direction as long as we stay vigilant in work and prayer.
+
+[Takyondansen](https://www.youtube.com/watch?v=jrVJmv2ndYA). That is all.
+
+[Internet Girl's Boiler Room set](https://www.youtube.com/watch?v=wjX24vg8Pdc) was really good. A very good ideological successor to BROCKHAMPTON, if you ask me.
+
+[Reply by email](mailto:noahie@fastmail.com)
+
+[Support my work with Liberapay](https://liberapay.com/noahie)
+
+**Bitcoin address**: bc1qtgqvj6qjxnaxkns20x5rcwnxvv3jqzhduvvxfc
