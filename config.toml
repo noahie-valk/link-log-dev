@@ -3,7 +3,7 @@ title = "Noahie's Link Log"
 base_url = "https://noahie.xyz/link-log"
 default_language = "en"
 output_dir = "../site/link-log"
-author = "noahie@fastmail.com"
+author = "noahie@fastmail.com (Noahie Valk)"
 
 # RSS feeds
 generate_feeds = true
