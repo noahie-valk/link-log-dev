@@ -1,6 +1,6 @@
 +++
 title = "Link Log 26"
-date = 2026-07-20
+date = 2026-07-26
 +++
 
 ![flawed hands](https://noahie.xyz/images/flawed-hands.png)
