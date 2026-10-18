@@ -13,9 +13,6 @@ git push
 
 # Build and deploy
 zola build
-cd ~/site
-neocities push .
+neocities-sync ~/site
 
 echo "✅ Deployed successfully!"
-
-notify-send "Deploy finished!"
